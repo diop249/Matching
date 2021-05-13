@@ -1,0 +1,30 @@
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.exe
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.deps.json
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.runtimeconfig.json
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.runtimeconfig.dev.json
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.dll
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.pdb
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.csprojAssemblyReference.cache
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.Form1.resources
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.csproj.GenerateResource.cache
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.AssemblyInfoInputs.cache
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.AssemblyInfo.cs
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.csproj.CoreCompileInputs.cache
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.dll
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.pdb
+G:\My Drive\Docs\Courses\Forms\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.genruntimeconfig.cache
+D:\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.exe
+D:\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.deps.json
+D:\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.runtimeconfig.json
+D:\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.runtimeconfig.dev.json
+D:\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.dll
+D:\Matching\Matching\bin\Debug\netcoreapp3.1\Matching.pdb
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.csprojAssemblyReference.cache
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.Form1.resources
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.csproj.GenerateResource.cache
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.AssemblyInfoInputs.cache
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.AssemblyInfo.cs
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.csproj.CoreCompileInputs.cache
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.dll
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.pdb
+D:\Matching\Matching\obj\Debug\netcoreapp3.1\Matching.genruntimeconfig.cache
